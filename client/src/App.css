@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+input, select, button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
